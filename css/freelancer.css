@@ -23,6 +23,10 @@ hr.star-dark {
   margin-bottom: 2.5rem;
 }
 
+#header {
+  border-radius: 50%;
+}
+
 hr.star-light:after,
 hr.star-dark:after {
   position: relative;
